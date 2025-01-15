@@ -33,3 +33,21 @@ Backend & Data Storage: Firebase is used to store business listing data, handle 
 - Firebase Cloud Firestore: A NoSQL database used for storing and syncing data.
 - Firebase Authentication:
 Handles user authentication with Google, Facebook, and Apple login.
+
+# [Snus counting app](https://github.com/JamilaRuz/WomenBusinessDirectory)
+This app focuses on simplifying snus pouch counting through an interactive widget. It offers users the ability to create a personalized quit plan based on survey responses and track their progress seamlessly.
+
+<p align="center">
+  <img width="200" alt="Snus app" src="https://github.com/user-attachments/assets/91d6d454-2157-464f-944b-7d3c813a53c6">
+  <img width="200" alt="Snus app" src="https://github.com/user-attachments/assets/a7ec100d-dc67-4c3e-bda0-893a26d036a8">
+  <img width="200" alt="Snus app" src="https://github.com/user-attachments/assets/339ff39a-09dc-405f-8b9a-51f792a4b6f4">
+  <img width="200" alt="Snus app" src="https://github.com/user-attachments/assets/3b31979c-eb6c-47a4-a73d-aa9614f91844">
+</p>
+
+**Tech Used**
+- iCloud synchronization for data consistency
+- SwiftData for efficient data management
+- a Widget for pouch tracking
+- Core Animation for dynamic visual effects.
+- Superwall, a third-party solution, to handle payments securely and manage subscriptions effectively.
+
