@@ -51,3 +51,5 @@ This app focuses on simplifying snus pouch counting through an interactive widge
 - Core Animation for dynamic visual effects.
 - Superwall, a third-party solution, to handle payments securely and manage subscriptions effectively.
 
+<a href="https://apps.apple.com/app/snuuze-quit-zyn-nicotine/id6740061068" target="_blank">App Store</a>
+
